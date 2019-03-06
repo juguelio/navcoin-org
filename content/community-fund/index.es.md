@@ -89,33 +89,33 @@ El portal de "NavCoin Collab" es el espacio donde la comunidad puede encontrar e
   titleText="Instrucciones para crear una&nbsp;propuesta"
   subtitleText="Hemos diseñado un proceso para ayudar para ayudar a que las propuestas tengan mayores posibilidades de ser aceptadas por nuestra&nbsp;comunidad."
   itemOneTitle="Paso 1 - Desarrollo de la idea principal del proyecto."
-  itemOneText="Traer la idea a la comunidad de NavCoin para discutirla en nuestros canales de comunicación<a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab</a>."
+  itemOneText="Traer la idea a la comunidad de NavCoin para discutirla en nuestros canales de comunicación <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> o en <a href=\"https://collab.navcoin.org\">NavCollab</a>."
 
   itemTwoTitle="Paso 2 - Crear la página del proyecto."
-  itemTwoText="Puede ser en cualquier lado, para mayor visibilidad recomendamos usar la página de <a href=\"\">NavCollab</a>.<br><br>Es importante especificar en detalle el proyecto. Lo más importante es explicar a la comunidad las razones por las cuales deberian financiarlo. Si es necesaria la ayuda externa y el tiempo que tomará desde el principio hasta la entrega final. <br><br>La propuesta puede ser financiada en distintas etapas, especialmente si es un proyecto largo."
+  itemTwoText="Puede ser en cualquier lado, para mayor visibilidad recomendamos usar la página de <a href=\"\">NavCollab</a>.<br><br>Es importante especificar en detalle el proyecto. Lo más relevante es explicar a la comunidad las razones por las cuales deberian financiarlo. Si es necesaria la ayuda externa y el tiempo que tomará desde el principio hasta la entrega final. <br><br>La propuesta puede ser financiada en distintas etapas, especialmente si es un proyecto largo."
 
   itemThreeTitle="Paso 3 - Crear el equipo."
   itemThreeText="Si es necesaria ayuda externa para llevar a cabo el proyecto. No dudar en buscar colaborados en nuestros canales sociales para afianzar las posibilidades de completarlo en tiempo y forma."
 
   itemFourTitle="Paso 4 - Entregar la propuesta para la votación."
-  itemFourText="Solo basta completar el formulario del proyecto incluyendo un enlace a la página del proyecto.<br><br>Luego para finalizarlo hará falta pagar la tasa de la propuesta unos 50 NAVs. Dicha tasa es necesaria para que usuarios no presentes proyectos innecesarios o malout&nbsp;ejecutados."
+  itemFourText="Solo basta completar el formulario del proyecto incluyendo un enlace a la página del proyecto.<br><br>Luego para finalizarlo hará falta pagar la tasa de la propuesta establecida en 50 NAVs. Dicha tasa es necesaria para que usuarios no presenten proyectos innecesarios o mal&nbsp;ejecutados."
   
   itemFiveTitle="Paso 5 - Promover el proyecto a la comunidad."
-  itemFiveText="Una vez entregado el proyecto, el siguien paso es usar los canales sociales de la comunidad para promocionarlo. Es necesario comunicar porqué son necesarios los fondos y los beneficios que el proyecto traerá a la comunidad de&nbsp;itNavCoin."
+  itemFiveText="Una vez entregado el proyecto, el siguien paso es usar los canales sociales de la comunidad para promocionarlo. Es necesario comunicar porqué se necesitan los fondos y los beneficios que el proyecto traerá a la comunidad de&nbsp;NavCoin."
 
   itemSixTitle="Paso 6 - Comienzo de la votacion."
   itemSixText="Para poder votar en el fondo comunitario es necesario hacer &#34;stakes&#34; de NAV. Cada generación de bloques, equivale a 1 voto. Cada ronda de votacioóón dura 20,000 blocks (Alrededor de 7 días).<br><br><ul><li>La participación mínima de &#34;Stakers&#34; debe exceder el 50%</li><br><li>De dichos 50%, una propuesta debe recibir el 75% de votos positivos para ser aceptada</li><br><li>Un porcentaje del 70% de votos negativos resultará en un rechazo de la propuesta.</li><br><li> Si no llegan al umbral del 50% de votación, habrán 6 rondas más hasta que el proyecto necesite ser re-enviado."
 
   itemSevenTitle="Paso 7 - Comienzo del proyecto."
-  itemSevenText="Comienza el proyecto y trata de respetar los tiempos pre establecidos.<br><br>Es importante mantener a la comunidad informada sobre su progreso."
+  itemSevenText="Iniciar el proyecto y tratar de respetar los tiempos pre establecidos.<br><br>Es importante mantener a la comunidad informada sobre su progreso."
 
   itemEightTitle="Paso 8 - Pago final."
-  itemEightText="Una vez terminado, es momento de hacer el pedido de pago del Fondo Comunitario. Si el proyecto se hace en distintos pasos, se pueden ir pidiendo pagos al alcanzar las metas&nbsp;concensuadas.<br><br>La liberación del pago estará sujeta a una segunada votacion entre los usuarios que hagan &quot;Stake&quot; con sus monedas. Nuevamente deberá haber un 50% mínima de participación pero en este paso el umbral de liberación o rechazo será del&nbsp;50%.<br><br>Los dueños de los proyectos DEBERÁN requerir los pagos antes de la fecha de expiración del&nbsp;proyecto."
+  itemEightText="Una vez terminado, es momento de hacer el pedido de pago del Fondo Comunitario. Si el proyecto se hace en distintos pasos, se pueden ir pidiendo pagos al alcanzar las metas&nbsp;concensuadas.<br><br>La liberación del pago estará sujeta a una segunada votacion entre los usuarios que hagan &quot;Stake&quot; con sus monedas. Nuevamente deberá haber un 50% mínimo de participación pero en este paso el umbral de liberación o rechazo será del&nbsp;50%.<br><br>Los dueños de los proyectos DEBERÁN requerir los pagos antes de la fecha de expiración del&nbsp;proyecto."
 >}}
 
 {{< social_grid_section
     titleText="Únanse a nuestra comunidad"
-    subtitleText="Promote your proposal ideas to the NavCoin community to get feedback, find collaborators and get votes."
+    subtitleText="Promuevan sus propuestas dentro de la comunidad de NavCoin para recibir ideas, críticas y recibir incluso ayuda para generar los votos necesarios"
     bgPurple="true"
 >}}
     {{< social                 
