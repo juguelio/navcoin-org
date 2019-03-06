@@ -47,7 +47,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 
     >}}
     {{< long_text
-        titleText="Pagos sin fricción"
+        titleText="Pagos sin obstáculos"
         imgSrc="/images/why-navcoin/why-low-fee.svg"
         text="En una economía digital, el envío de pagos a todo el mundo deberia ser rápido, barato y fácil de realizar. NavCoin puede enviarse por una fracciones de centavos, apareceran en segundos (confirmado en 30 segundos) y contamos con una variedad de monederos diseñados para que el envío sea extremadamente&nbsp;fácil."
 
@@ -118,7 +118,7 @@ NavCoin es una red administrada por su comunidad que se inició en 2014. Al prin
         text="El Fondo Comunitario de NavCoin permite a los contribuyentes recibir un pago de la red por sus&nbsp;esfuerzos."
     >}}
     {{< feature                 
-        titleText="Miembro de la  &#34;Alianza de la Prueba de Participacion &#34;"
+        titleText="Miembro de la 'Alianza de la Prueba de Participacion'"
 
         imgSrc="/images/why-navcoin/why-pos-alliance.svg"
         text="Este grupo tiene como objetivo mejorar en forma colaborativa el protocolo de la Prueba de Participación (PoS). Incluye proyectos como PivX, Blakcoin, Paticl y&nbsp;otrosW."
